@@ -1,0 +1,16 @@
+.chart--content {
+  height: 100%;
+  width: 3%;
+  /* background: orange; */
+  /* transform: translateY(8%); */
+  /* border-radius: 10px; */
+}
+
+.chart--month {
+  height: 12%;
+  /* background: violet; */
+  font-size: 100%;
+  font-weight: 600;
+}
+
+

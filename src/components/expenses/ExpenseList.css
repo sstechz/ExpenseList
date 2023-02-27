@@ -1,0 +1,23 @@
+.App {
+    text-align: center;
+    width: 60%;
+    background: rgb(57, 57, 56);
+    margin: 3% auto;
+    padding-bottom: 0.5%;
+    border-radius: 10px;
+  }
+
+  .filterYear{
+    display: block;
+    height: 5rem;
+    /* background: red; */
+    font-size: xx-large ;
+  }
+
+  .yearOption{
+    height: 3rem;
+    width: 4rem;
+    font-size: large;
+    margin-left: 60%;
+    margin-top: 2%;  
+  }

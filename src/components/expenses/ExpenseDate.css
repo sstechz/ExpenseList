@@ -1,0 +1,21 @@
+.expense--date {
+  height: 140%;
+  width: 10%;
+  background: black;
+  margin-top: -1.5%;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+.month {
+  font-size: medium;
+  font-weight: bold;
+  margin-top: 0px;
+  /* background: red; */
+}
+
+.date {
+  /* background: orange; */
+  font-size: medium;
+  font-weight: bolder;
+}
